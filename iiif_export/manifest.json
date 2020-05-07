@@ -1,0 +1,264 @@
+{
+    "related": [
+        "https://readux.ecdsdev.org/volume/emory:b5h9g/page/all"
+    ],
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "metadata": [
+        {
+            "value": "x",
+            "label": "Author"
+        },
+        {
+            "value": "x",
+            "label": "Publisher"
+        },
+        {
+            "value": "x",
+            "label": "Place of Publication"
+        },
+        {
+            "value": "x",
+            "label": "Publication Date"
+        },
+        {
+            "value": [
+                {}
+            ],
+            "label": "Notes"
+        },
+        {
+            "value": "2019-04-01T14:41:06.798Z",
+            "label": "Record Created"
+        },
+        {
+            "value": "Readux IIIF Exported Edition",
+            "label": "Edition Type"
+        },
+        {
+            "value": "https://readux.ecdsdev.org/about/",
+            "label": "About Readux"
+        },
+        {
+            "value": "Sara E. Palmer",
+            "label": "Annotators"
+        },
+        {
+            "value": "2020-05-07T15:44:38.451",
+            "label": "Export Date"
+        }
+    ],
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "logo": "https://readux.ecdsdev.org/media/logos/lits-logo-web.png",
+    "description": "Testing a link. www.google.com",
+    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/manifest",
+    "attribution": "Emory University Libraries",
+    "label": "Black Jacob,\" a monument of grace the life of Jacob Hodges, an African Negro, who died in Canandaigua, N.Y., February 1842 /",
+    "thumbnail": {
+        "@id": "https://loris.library.emory.edu/fedora:emory:gnfvk/full/600,/0/default.jpg",
+        "service": {
+            "@id": "https://loris.library.emory.edu/fedora:emory:gnfvk",
+            "profile": "http://iiif.io/api/image/2/level1.json",
+            "@context": "http://iiif.io/api/image/2/context.json"
+        }
+    },
+    "within": [
+        "https://readux.ecdsdev.org/collection/african-american-literature",
+        "https://readux.ecdsdev.org/collection/some:pid"
+    ],
+    "sequences": [
+        {
+            "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/sequence/normal",
+            "label": "Current Page Order",
+            "@type": "sc:Sequence",
+            "startCanvas": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:gnfvk",
+            "canvases": [
+                {
+                    "height": 1875,
+                    "width": 1349,
+                    "images": [
+                        {
+                            "resource": {
+                                "height": 1875,
+                                "width": 1349,
+                                "format": "image/jpeg",
+                                "@type": "dctypes:Image",
+                                "@id": "https://loris.library.emory.edu/fedora:emory:gnfvk/full/full/0/default.jpg",
+                                "service": {
+                                    "@id": "https://loris.library.emory.edu/fedora:emory:gnfvk",
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                }
+                            },
+                            "motivation": "sc:painting",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/emory:b5h9g/annotation/fedora:emory:gnfvk",
+                            "on": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:gnfvk",
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "thumbnail": {
+                        "height": 250,
+                        "width": 200,
+                        "@id": "https://loris.library.emory.edu/fedora:emory:gnfvk/full/200,/0/default.jpg"
+                    },
+                    "@id": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:gnfvk",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/list/fedora:emory:gnfvk",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/jay/emory:b5h9g/list/fedora:emory:gnfvk",
+                            "@type": "sc:AnnotationList",
+                            "label": "Annotations by jay"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/jcmundy39/emory:b5h9g/list/fedora:emory:gnfvk",
+                            "@type": "sc:AnnotationList",
+                            "label": "Annotations by jcmundy39"
+                        }
+                    ],
+                    "@type": "sc:Canvas",
+                    "label": "1"
+                },
+                {
+                    "height": 1875,
+                    "width": 1349,
+                    "images": [
+                        {
+                            "resource": {
+                                "height": 1875,
+                                "width": 1349,
+                                "format": "image/jpeg",
+                                "@type": "dctypes:Image",
+                                "@id": "https://loris.library.emory.edu/fedora:emory:pchch/full/full/0/default.jpg",
+                                "service": {
+                                    "@id": "https://loris.library.emory.edu/fedora:emory:pchch",
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                }
+                            },
+                            "motivation": "sc:painting",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/emory:b5h9g/annotation/fedora:emory:pchch",
+                            "on": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:pchch",
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "thumbnail": {
+                        "height": 250,
+                        "width": 200,
+                        "@id": "https://loris.library.emory.edu/fedora:emory:pchch/full/200,/0/default.jpg"
+                    },
+                    "@id": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:pchch",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/list/fedora:emory:pchch",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/admin/emory:b5h9g/list/fedora:emory:pchch",
+                            "@type": "sc:AnnotationList",
+                            "label": "Annotations by admin"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/sepalme/emory:b5h9g/list/fedora:emory:pchch",
+                            "@type": "sc:AnnotationList",
+                            "label": "Annotations by sepalme"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/joanna/emory:b5h9g/list/fedora:emory:pchch",
+                            "@type": "sc:AnnotationList",
+                            "label": "Annotations by joanna"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/jcmundy39/emory:b5h9g/list/fedora:emory:pchch",
+                            "@type": "sc:AnnotationList",
+                            "label": "Annotations by jcmundy39"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/sarepal-github/emory:b5h9g/list/fedora:emory:pchch",
+                            "@type": "sc:AnnotationList",
+                            "label": "Annotations by sarepal-github"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/sara-gmail/emory:b5h9g/list/fedora:emory:pchch",
+                            "@type": "sc:AnnotationList",
+                            "label": "Annotations by sara-gmail"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/sara-fb/emory:b5h9g/list/fedora:emory:pchch",
+                            "@type": "sc:AnnotationList",
+                            "label": "Annotations by sara-fb"
+                        }
+                    ],
+                    "@type": "sc:Canvas",
+                    "label": "2"
+                },
+                {
+                    "height": 1875,
+                    "width": 1349,
+                    "images": [
+                        {
+                            "resource": {
+                                "height": 1875,
+                                "width": 1349,
+                                "format": "image/jpeg",
+                                "@type": "dctypes:Image",
+                                "@id": "https://loris.library.emory.edu/fedora:emory:pchdn/full/full/0/default.jpg",
+                                "service": {
+                                    "@id": "https://loris.library.emory.edu/fedora:emory:pchdn",
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@context": "https://iiif.io/api/image/2/context.json"
+                                }
+                            },
+                            "motivation": "sc:painting",
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/emory:b5h9g/annotation/fedora:emory:pchdn",
+                            "on": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:pchdn",
+                            "@type": "oa:Annotation"
+                        }
+                    ],
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "thumbnail": {
+                        "height": 250,
+                        "width": 200,
+                        "@id": "https://loris.library.emory.edu/fedora:emory:pchdn/full/200,/0/default.jpg"
+                    },
+                    "@id": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:pchdn",
+                    "otherContent": [
+                        {
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/list/fedora:emory:pchdn",
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/sepalme/emory:b5h9g/list/fedora:emory:pchdn",
+                            "@type": "sc:AnnotationList",
+                            "label": "Annotations by sepalme"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/jcmundy39/emory:b5h9g/list/fedora:emory:pchdn",
+                            "@type": "sc:AnnotationList",
+                            "label": "Annotations by jcmundy39"
+                        },
+                        {
+                            "@id": "https://readux.ecdsdev.org/annotations/sarepal-github/emory:b5h9g/list/fedora:emory:pchdn",
+                            "@type": "sc:AnnotationList",
+                            "label": "Annotations by sarepal-github"
+                        }
+                    ],
+                    "@type": "sc:Canvas",
+                    "label": "3"
+                }
+            ]
+        }
+    ],
+    "viewingHint": "paged",
+    "viewingDirection": "left-to-right",
+    "@type": "sc:Manifest"
+}
